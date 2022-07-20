@@ -297,8 +297,7 @@ button {
   padding-right: 50px;
   background: #005aaa;
   color: #678fc1;
-  display: inline-block;
-  margin: 5px 2px;
+  float:right;
 }
 
 .list_social_media{
