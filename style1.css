@@ -164,8 +164,9 @@ body,h1,h2,h3,h4,h5,h6{
     flex-flow: wrap;
   }
 
-@import url('font-awesome/css/font-awesome.css');
 
+
+/* Home>Event Management */
 
   .container,.breadcrumb a{
     text-align: right;
@@ -205,10 +206,11 @@ body,h1,h2,h3,h4,h5,h6{
     font-size: 2rem;
     color: #000000;
     padding: 0 30px;
-    line-height: 20px;
 }
 
 /* Copyright Section */
+
+@import url('font-awesome/css/font-awesome.css');
 
 .panel {
     background: transparent;
