@@ -27,6 +27,27 @@ body,h1,h2,h3,h4,h5,h6{
   display:block;
 }
 
+/*Event Management*/
+
+.text{
+  float:left;
+}
+
+.page_title{
+  font-family: 'SegoeUI-Light';
+  font-size: 2em;
+  font-weight: 300;
+  position: absolute;
+  display: inline-block;
+  background: rgba(0,0,0,0.6);
+  padding: 30px;
+  margin: 0;
+  bottom: 30px;
+  border: none;
+  color: #fff;
+  left: 10px;
+}
+
 
 /* Next & previous buttons */
 .prev, .next {
