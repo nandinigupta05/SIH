@@ -342,14 +342,13 @@ button {
 
 
 .list_sm{
-  display:flex;
-  flex-flow:wrap;
   margin: 0;
   padding: 0;
 }
 
 ul {
-    display:block;
+    display:flex;
+    flex-flow:wrap;
     list-style-type: disc;
     margin-block-start: 1em;
     margin-block-end: 1em;
