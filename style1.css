@@ -34,12 +34,12 @@ body,h1,h2,h3,h4,h5,h6{
 
 .page_title{
   font-family: 'SegoeUI-Light';
-  font-size: 2em;
+  font-size: 1.8em;
   font-weight: 300;
   position: absolute;
   display: inline-block;
   background: rgba(0,0,0,0.6);
-  padding: 30px;
+  padding: 20px;
   margin: 0;
   bottom: 30px;
   border: none;
