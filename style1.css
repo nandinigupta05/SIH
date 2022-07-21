@@ -162,6 +162,7 @@ body,h1,h2,h3,h4,h5,h6{
     padding: 1px;
     border: 10px solid rgb(221, 215, 215);
     margin: 30px;
+    overflow:hidden;
   }
 
   .box_text{
@@ -184,8 +185,9 @@ body,h1,h2,h3,h4,h5,h6{
     background-color:#f2f2f2;
     display:flex;
     flex-flow: wrap;
-    margin-left:300px;
-    margin-right:300px;
+    max-width:1000px;
+    position:relative;
+    margin:auto;
     
   }
 
