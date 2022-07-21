@@ -238,6 +238,7 @@ body,h1,h2,h3,h4,h5,h6{
 /* LogIn Page */
 
 .login{
+  overflow:hidden;
   text-align: center;
 }
 
@@ -270,6 +271,7 @@ button {
     border: none;
     box-shadow: none;
     margin: 0;
+    overflow:hidden;
 }
 
 
