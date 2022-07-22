@@ -428,6 +428,9 @@ li a{
 
 /* Change the color of links on hover */
 .downnav a:hover {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
   background-color: #ede8e6;
   color: #FF5F1F;
 }
