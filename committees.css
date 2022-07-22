@@ -2,6 +2,11 @@ body,h1,h2,h3,h4,h5,h6{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
+.front{
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
   @import url('font-awesome/css/font-awesome.css');
 
   .head_logo{
