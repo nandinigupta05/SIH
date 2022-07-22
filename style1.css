@@ -407,6 +407,9 @@ li a{
   overflow: hidden;
   display:flex;
   flex-flow: wrap;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
 
 /* Style the links inside the navigation bar */
